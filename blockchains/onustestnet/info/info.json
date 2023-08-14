@@ -1,0 +1,14 @@
+{
+  "name": "ONUS Chain Testnet",
+  "website": "https://goonus.io/",
+  "description": "",
+  "explorer": "https://explorer-testnet.onuschain.io/",
+  "symbol": "ONUS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "tags": [
+    "staking-native"
+  ],
+  "links": []
+}
